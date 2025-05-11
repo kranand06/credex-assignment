@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import Error404 from './Components/Error404.jsx'
-import Page from './Components/Page.jsx'
+import Page from './Page.jsx'
 
 const route = createBrowserRouter([
   {
